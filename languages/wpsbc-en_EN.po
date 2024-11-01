@@ -1,0 +1,574 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpbs\n"
+"POT-Creation-Date: 2015-12-09 11:58+0200\n"
+"PO-Revision-Date: 2015-12-09 11:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: D:/wpbs/wp-content/plugins/wp-booking-system\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_;_e;__e\n"
+"X-Poedit-SearchPath-0: D:/wpsbc/wp-content/plugins/wp-simple-booking-"
+"calendar-premium\n"
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarAdmin.php:77
+msgid "Assign users to this calendar"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarAdmin.php:95
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:4
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:4
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:4
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:4
+msgid "Edit Legend"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarAdmin.php:105
+msgid "Start time must be lower than end time"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarAdmin.php:107
+msgid "Start Date"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarAdmin.php:126
+msgid "End Date"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarAdmin.php:145
+msgid "Booking Details"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarAdmin.php:151
+msgid "Status"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarAdmin.php:160
+msgid "Apply Changes"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarCore.php:139
+msgid "Previous Month"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarCore.php:154
+msgid "Next Month"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarCore.php:172
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarCore.php:227
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/calendarCore.php:264
+msgid "Week"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcode.php:62
+msgid "WP Simple Booking Calendar: Invalid calendar ID."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:14
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:30
+msgid "Add Calendar"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:42
+msgid "Please select a form"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:68
+msgid "Insert A Calendar"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:70
+msgid "Select a calendar below to add it to your post or page."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:74
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:76
+msgid "Calendar"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:86
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:84
+msgid "Display title?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:88
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:96
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:104
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:186
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:194
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:86
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:93
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:100
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:178
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:189
+msgid "Yes"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:89
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:97
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:105
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:185
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:195
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:87
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:94
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:101
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:177
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:188
+msgid "No"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:94
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:91
+msgid "Display legend?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:102
+msgid "Display dropdown?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:111
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:105
+msgid "Week starts on"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:113
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:108
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:55
+msgid "Monday"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:114
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:109
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:56
+msgid "Tuesday"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:115
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:110
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:57
+msgid "Wednesday"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:116
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:111
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:58
+msgid "Thursday"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:117
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:112
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:59
+msgid "Friday"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:118
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:113
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:60
+msgid "Saturday"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:119
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:114
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:61
+msgid "Sunday"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:125
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:118
+msgid "Months to display?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:134
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:126
+msgid "Language"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:145
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:137
+msgid "Start Month"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:164
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:156
+msgid "Start Year"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:174
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:165
+msgid "Show history?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:176
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:167
+msgid "Display booking history"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:177
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:168
+msgid "Replace booking history with the default legend item"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:178
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:169
+msgid "Use the Booking History Color from the Settings"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:183
+msgid "Show tooltip?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:187
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:179
+msgid "Yes, with red indicator"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:192
+msgid "Show week numbers?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:201
+msgid "Insert Calendar"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginShortcodeButton.php:202
+msgid "Cancel"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:98
+msgid "isplay dropdown?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:129
+msgid "Auto (let WP choose)"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:139
+msgid "Current Month"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:140
+msgid "January"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:141
+msgid "February"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:142
+msgid "March"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:143
+msgid "April"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:144
+msgid "May"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:145
+msgid "June"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:146
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:28
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:29
+msgid "July"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:147
+msgid "August"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:148
+msgid "September"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:149
+msgid "October"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:150
+msgid "November"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:151
+msgid "December"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:175
+msgid "Show Tooltip?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginWidget.php:186
+msgid "Show Week Numbers?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/include/pluginiCal.php:64
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-calendar.php:55
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:109
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:112
+msgid "Invalid calendar ID."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:6
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:4
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:4
+msgid "Add New"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:11
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-calendar.php:15
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:7
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:7
+msgid "The calendar was updated"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:23
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:13
+msgid "ID"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:24
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:14
+msgid "Calendar Title"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:25
+msgid "Date Created"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:26
+msgid "Date Modified"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:38
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:31
+msgid "Edit this item"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:38
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:38
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:33
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:31
+msgid "Edit"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:39
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:32
+msgid "Are you sure you want to delete this calendar?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:39
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:40
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:35
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:32
+msgid "Delete"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:49
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:42
+msgid "No calendars found."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/calendars.php:49
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:42
+msgid "Click here to create your first calendar."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-calendar.php:12
+msgid "Edit Calendar"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-calendar.php:27
+msgid "Calendar title"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-calendar.php:29
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-calendar.php:51
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:18
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:63
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:18
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:62
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:14
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:95
+msgid "Save Changes"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-calendar.php:30
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:19
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:16
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:19
+msgid "Back"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-calendar.php:38
+msgid "Availability"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:23
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:22
+msgid "Legend title"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:28
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:27
+msgid "Bookings"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:32
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:23
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:31
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:18
+msgid "Color"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:35
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:34
+msgid "Split Color"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend-item.php:49
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:48
+msgid "Translations"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:21
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:16
+msgid "Title"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:22
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:17
+msgid "Options"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:24
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:19
+msgid "Default"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:25
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:20
+msgid "Visible"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:26
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:21
+msgid "Ordering"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:27
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:22
+msgid "Sync as booked"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:40
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:35
+msgid "Are you sure you want to delete this legend item?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:46
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:41
+msgid "Make Default Legend"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:48
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:43
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/wp-simple-booking-calendar.php:79
+msgid "Default Legend"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:53
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:47
+msgid "Hidden, click to show."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:55
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:49
+msgid "Visible, click to hide."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:59
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:53
+msgid "Move Up"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:63
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:57
+msgid "Move Down"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:66
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:60
+msgid "Syncing, click to remove sync."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/calendar/edit-legend.php:68
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:62
+msgid "Not Syncing, click to sync."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend-item.php:7
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/default-legend/edit-legend.php:7
+msgid "The legend was updated"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:4
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/wp-simple-booking-calendar.php:80
+msgid "Sync"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/ical/ical.php:15
+msgid "iCalendar Link"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:4
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/wp-simple-booking-calendar.php:81
+msgid "Settings"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:7
+msgid "The settings were saved."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:19
+msgid "General Settings"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:25
+msgid "Date Format"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:39
+msgid "Booking History Color"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:44
+msgid ""
+"The color that will be used if you select 'Use Booking History Color' when "
+"you generate a shortcode."
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:50
+msgid "Backend Start Day"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:74
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:80
+msgid "Languages"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/views/settings/settings.php:81
+msgid "What languages do you <br />want to use?"
+msgstr ""
+
+#: D:/wpsbc/wp-content/plugins/wp-simple-booking-calendar-premium/wp-simple-booking-calendar.php:78
+msgid "Calendars"
+msgstr ""
